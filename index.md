@@ -80,6 +80,15 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
+<h2 id="zoom-links">Zoom Links</h2>
+
+[Day One Zoom Link, Morning](https://columbiauniversity.zoom.us/j/95954216737?pwd=dllIMmxWbUdncFIxQWlqeSt2V1dOQT09)  
+[Day One Zoom Link, Afternoon](https://columbiauniversity.zoom.us/j/98992715862?pwd=b1EzL1FtbjFlMFdpM3RiWXRHdWRDQT09)  
+[Day Two Zoom Link, Morning](https://columbiauniversity.zoom.us/j/94216823361?pwd=RkowdmRjR1R0OUxVZG4xWWlsNFdiQT09)  
+[Day Two Zoom Link, Afternoon](https://columbiauniversity.zoom.us/j/94345814640?pwd=M2w1TG1oYTZCNUNEbHVtQSt5WkZFQT09)  
+
+
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
