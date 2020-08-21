@@ -14,7 +14,7 @@ humantime: "9:00 AM — 4:30 PM EST"    # human-readable times for the workshop 
 startdate: 2020-08-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-08-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Axinia Radeva", "Jonathan Reeve", "Satwinder Singh", "Michael Weisner", "Cesar Arias", "Paul Bloom"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Alan Crosswell", "Rob Lane", "Roger Lefort", "Arvind Narayanaswamy"]
+helper: ["Alan Crosswell", "Ali Sheikh", "Roger Lefort", "Arvind Narayanaswamy", "Matt Harrington", "Wei Yin", "Rob Lane"]
 email: ["rcfoundations@columbia.edu"]
 collaborative_notes: 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
